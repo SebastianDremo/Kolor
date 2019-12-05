@@ -1,0 +1,11 @@
+C:\Users\sebas\Desktop\Kolor\Kolor\Obiektowosc\bin\Debug\netcoreapp3.0\Obiektowosc.exe
+C:\Users\sebas\Desktop\Kolor\Kolor\Obiektowosc\bin\Debug\netcoreapp3.0\Obiektowosc.deps.json
+C:\Users\sebas\Desktop\Kolor\Kolor\Obiektowosc\bin\Debug\netcoreapp3.0\Obiektowosc.runtimeconfig.json
+C:\Users\sebas\Desktop\Kolor\Kolor\Obiektowosc\bin\Debug\netcoreapp3.0\Obiektowosc.runtimeconfig.dev.json
+C:\Users\sebas\Desktop\Kolor\Kolor\Obiektowosc\bin\Debug\netcoreapp3.0\Obiektowosc.dll
+C:\Users\sebas\Desktop\Kolor\Kolor\Obiektowosc\bin\Debug\netcoreapp3.0\Obiektowosc.pdb
+C:\Users\sebas\Desktop\Kolor\Kolor\Obiektowosc\obj\Debug\netcoreapp3.0\Obiektowosc.csprojAssemblyReference.cache
+C:\Users\sebas\Desktop\Kolor\Kolor\Obiektowosc\obj\Debug\netcoreapp3.0\Obiektowosc.AssemblyInfoInputs.cache
+C:\Users\sebas\Desktop\Kolor\Kolor\Obiektowosc\obj\Debug\netcoreapp3.0\Obiektowosc.AssemblyInfo.cs
+C:\Users\sebas\Desktop\Kolor\Kolor\Obiektowosc\obj\Debug\netcoreapp3.0\Obiektowosc.dll
+C:\Users\sebas\Desktop\Kolor\Kolor\Obiektowosc\obj\Debug\netcoreapp3.0\Obiektowosc.pdb

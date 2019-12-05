@@ -1,4 +1,4 @@
-﻿using System;
+﻿using Abc;
 
 namespace Obiektowosc
 {
@@ -6,7 +6,11 @@ namespace Obiektowosc
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Human human = new Human();
+            human.age = 21;
+            human.name = "Sebastian";
+
+            human.Print();
         }
     }
 }
