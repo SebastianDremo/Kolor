@@ -6,9 +6,7 @@ namespace Obiektowosc
     {
         static void Main(string[] args)
         {
-            Human human = new Human();
-            human.age = 21;
-            human.name = "Sebastian";
+            Human human = new Human("Sebastian", 21);
 
             human.Print();
         }
